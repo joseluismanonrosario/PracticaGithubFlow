@@ -3,7 +3,7 @@ Colegio APEC Feranndo Arturo de Meriño
 Listado de Estudiantes 6to. B Informatica
 Fecha: 
 
-Profesor Encargado:
+Profesor Encargado: Prof. José Luis Mañón Rosario
 
 No.	Nombres
 1	
@@ -26,4 +26,4 @@ No.	Nombres
 18	
 19	
 20	
-21	
+21
